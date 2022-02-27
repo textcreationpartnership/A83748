@@ -1,0 +1,163 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The narrative and reasons which were delivered by the House of Commons to the Lords, at the last conference touching the tryals of the Lords in the Tower</title>
+            <title>Proceedings. 1679-05-26</title>
+            <author>England and Wales. Parliament. House of Commons.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83748</idno>
+            <idno type="STC">Wing E2627</idno>
+            <idno type="STC">ESTC R202398</idno>
+            <idno type="EEBO-CITATION">99895389</idno>
+            <idno type="PROQUEST">99895389</idno>
+            <idno type="VID">152942</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A83748)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152942)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2335:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The narrative and reasons which were delivered by the House of Commons to the Lords, at the last conference touching the tryals of the Lords in the Tower</title>
+                  <title>Proceedings. 1679-05-26</title>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+                  <author>England and Wales. Parliament. House of Lords.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1679]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Regarding the pardon of the Thomas Osborne, Earl of Danby (later Duke of Leeds), and the trial of the five lords: Earl of Powis, Viscount Stafford, Lord Petre, Lord Arundel of Wardour, and Lord Bellasis.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of original in the William Andrews Clark Memorial Library, Los Angeles, California.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Leeds, Thomas Osborne, --  Duke of, 1631-1712 --  Early works to 1800.</term>
+               <term>Arundell of Wardour, Henry Arundell, --  Baron, 1606?-1694 --  Early works to 1800.</term>
+               <term>Popish Plot, 1678 --  Early works to 1800.</term>
+               <term>Treason --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="narrative">
+            <pb n="1" facs="tcp:152942:1" rendition="simple:additions"/>
+            <head>THE NARRATIVE AND REASONS Which were delivered by the Houſe of Commons TO THE LORDS, AT THE Laſt CONFERENCE touching the Tryals of the LORDS in the <hi>TOWER.</hi>
+            </head>
+            <p>THE Commons have always deſired that a good Correſpondence may be pre<g ref="char:EOLhyphen"/>ſerved between the two Houſes.</p>
+            <p>There is now depending between your Lordſhips and the Commons a mat<g ref="char:EOLhyphen"/>ter of the greateſt weight, in the tranſactions of which your Lordſhips ſeem to apprehend ſome difficulty in the matters propoſed by the Commons.</p>
+            <p>To clear this, the Commons have deſired this Conference, and by it they hope to manifeſt to your Lordſhips, That the Propoſitions of the Houſe of Commons made by their Committee, in relation to the Trial of the Lords in the <hi>Tower,</hi> have been only ſuch as are well warranted by the Laws of Parliament, and Conſtitutions of the Government, and in no ſort intrench upon the Judicature of the Peers, but are moſt neceſſary to be inſiſted upon, that the ancient Rights of Judicature in Parliament may be maintained.</p>
+            <p>The Commons readily acknowledg, that the Crimes charged upon the Earl of <hi>Powis,</hi> Vis<g ref="char:EOLhyphen"/>count <hi>Stafford,</hi> Lord <hi>Petre,</hi> Lord <hi>Arundel</hi> of <hi>Wardour,</hi> and Lord <hi>Bellaſis,</hi> are of deep guilt, and call for ſpeedy Juſtice; but withal, they hold, that any change in Judicature in Parliament, made without conſent in full Parliament, to be of pernicious conſequence, both to his Majeſty, and his Subjects, and conceive themſelves obliged to tranſmit to their poſterity all the rights which of
+<pb n="2" facs="tcp:152942:2" rendition="simple:additions"/>his kind they have rece<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed from their Anceſtors: and by puting your Lordſhips in mind of the progreſs that has already been between the two Houſes, in relation to the propoſitions made by the Commons, and the reaſonableneſs of the propoſitions themſelves; they doubt not to make it appear, that their aim hath been no other, than to avoid ſuch conſequences, and preſerve that right; and that there is no delay of Juſtice on their part; and to that end, do offer to your Lord<g ref="char:EOLhyphen"/>ſhips the enſuing Reaſons and Narrative; that the Commons in bringing the E. of <hi>Danby</hi> to Juſtice, and in diſcovery of that execrable-and traiterous Conſpiracy (of which the five Popiſh Lords now ſtand Impeached, and for which ſome of their wicked Accomplices have already undergone the ſentence of the Law as Traitors and Murderers), have laboured under many great difficulties, is not unknown to your Lordſhips.</p>
+            <p>Nor is it leſs known to your Lordſhips, that upon the Impeachment of the Houſe of Com<g ref="char:EOLhyphen"/>mons againſt the E. of <hi>Danby</hi> for High Treaſon, and other high crimes, miſdemeanors, and offen<g ref="char:EOLhyphen"/>ces, even the common juſtice of ſequeſtring him from Parliament, and forthwith committing him to ſafe cuſtody, was then required by the Commons, and denied by the Houſe of Peers, though he then ſate in their Houſe; of which your Lordſhips have been ſo ſenſible, that at a free Conference the 10th of <hi>April</hi> laſt, your Lordſhips declared, that it was the right of the Commons, and well warranted by preſidents of former ages; That upon the Impeachment of the Com<g ref="char:EOLhyphen"/>mons, a Peer ſo impeached ought of right to be ordered to withdraw, and then to be committed; and had not that Juſtice been denied to the Commons, a great part of this Seſſion of Parliament, which hath been ſpent in framing and adjuſting a Bill for cauſing the E. of <hi>Danby</hi> to appear and anſwer that Juſtice from which he was fled, had been ſaved, and had been employed for the preſervation of his Majeſties perſon, and the ſecurity of the Nation, and in proſecuting of the other five Lords; neither had he had the opportunity of procuring for himſelf that illegal par<g ref="char:EOLhyphen"/>don, which bears date the firſt of <hi>March</hi> laſt paſt, and which he hath now pleaded in bar of his Impeachment; nor of waſting ſo great a proportion of the treaſure of the Kingdom, as he hath done ſince the Commons exhibited their Articles of Impeachment againſt him.</p>
+            <p>After which time thus loſt by reaſon of the denial of that Juſtice which of right belonged to the Commons upon their Impeachment, the ſaid Bill being ready for the Royal aſſent, the ſaid Earl then rendered himſelf; and by your Lordſhips Order of the 16th of <hi>April</hi> laſt, was committed to the <hi>Tower;</hi> after which he pleaded the ſaid pardon, and being preſſed, did at length declare he would rely upon, and abide by that plea; which pardon being pleaded, being illegal and void, and ſo ought not to bar and preclude the Commons from having Juſtice upon the Im<g ref="char:EOLhyphen"/>peachment; they did thereupon with their Speaker on the fifth of <hi>May</hi> inſtant, in the name of themſelves, and all the Commons of <hi>England,</hi> demand Judgment againſt the ſaid Earl upon their Impeachment, not doubting but that your Lordſhips did intend in all your proceedings upon the Impeachment, to follow the uſual courſe and method of Parliament.</p>
+            <p>But the Commons were not a little ſurprized by the Meſſage from your Lordſhips, delivered them on the 7th of <hi>May,</hi> thereby acquainting them, That as well the Lords Spiritual as Tempo<g ref="char:EOLhyphen"/>ral, had ordered that the 10th of <hi>May</hi> inſtant ſhould be the day for hearing the E. of <hi>Danby</hi> to make good his Plea of Pardon; and that on the 13th of <hi>May</hi> the other five Lords impeached, ſhould be brought to their Trial, and that your Lordſhips had addreſſed to his Majeſty for na<g ref="char:EOLhyphen"/>ming of a Lord High Steward, as well in the Caſe of the E. of <hi>Danby,</hi> as the other five Lords.</p>
+            <p>Upon conſideration of this ſaid Meſſage, the Commons found, that the admitting the Lords Spiritual to exerciſe Juriſdiction in theſe caſes, was an alteration of the Judicature in Parliament, and which extended as well to the proceeding againſt the five Lords, as againſt the E. of <hi>Danby;</hi> and that if a Lord High Steward ſhould be neceſſary upon Trial on Impeachment of the Com<g ref="char:EOLhyphen"/>mons, the power of Judicature in Parliament upon Impeachments might be defeated, by ſuſpend<g ref="char:EOLhyphen"/>ing or denying a Commiſſion to conſtitute a Lord High Steward.</p>
+            <p>And that the ſaid days of Trial appointed by your Lordſhips, were ſo near to the time of your ſaid Meſſage, that theſe matters, and the method of proceeding upon the Trial, could not be ad<g ref="char:EOLhyphen"/>juſted by Conference between the two Houſes, before the day ſo nominated; and conſequently the Commons could not then proceed to Tryal, unleſs the zeal which they have for ſpeedy Judgment againſt the Earl of <hi>Danby</hi> (that ſo they might proceed to the Tryal of the other five Lords) ſhould induce them at this juncture, both to admit the enlargement of your Lordſhips Juriſdiction, and to fit down under theſe or any hardſhips (though with the hazard of all the Commons power of Impeaching for time to come) rather than the Tryal of the ſaid five Lords ſhould be deferred for ſome ſhort time, whileſt theſe matters might be agreed on and ſetled.</p>
+            <p>For reconciling differences in theſe great and weighty matters, and for ſaving that time which would neceſſarily have been ſpent in Debates and Conferences betwixt the two Houſes, and for expediting the Tryal, without giving up the Power of Impeachment, or rendring them ineffe<g ref="char:EOLhyphen"/>ctual.</p>
+            <pb n="3" facs="tcp:152942:2" rendition="simple:additions"/>
+            <p>The Commons thought fit to propoſe to your Lordſhips, that a Committee of both Houſes might be appointed for this purpoſe. At which Committee (when agreed to by your Lord<g ref="char:EOLhyphen"/>ſhips) it was firſt propoſed that the time of Tryal of the Lords in the <hi>Tower,</hi> ſhould be put off till the other Matters were adjuſted; and it was then agreed, that the Propoſition as to the time of the Tryal, ſhould be the laſt thing conſidered. And the effect of this Agreement ſtands re<g ref="char:EOLhyphen"/>ported upon your Lordſhips Books.</p>
+            <p>After which the Commons communicated to your Lordſhips by your Committee, Vote of theirs, <hi>(viz.)</hi> that the Committee of the Commons ſhould inſiſt upon their former Vote of their Houſe, That the Lords Spiritual ought not to have any Vote in any proceedings againſt the Lords in the <hi>Tower,</hi> and that when that Matter ſhould be ſetled, and the Method of Proceedings adjuſted, the Commons would then be ready to proceed upon the Tryal of the Pardon of the Earl of <hi>Danby,</hi> againſt whom they had before demanded Judgment, and afterwards to the Tryal of the other five Lords in the <hi>Tower,</hi> which Vote extended as well to the Earl of <hi>Danby,</hi> as the other five Lords; But the Commons as yet received nothing from your Lordſhips towards an Anſwer of that Vote, ſave that your Lordſhips have acquainted them, that the Biſhops have asked leave of the Houſe of Peers, that they might withdraw themſelves from the Tryal of the ſaid five Lords, with Liberty of entring their uſual proteſtation.</p>
+            <p>And though the Commons Committee have almoſt daily declared to your Lordſhips Com<g ref="char:EOLhyphen"/>mittee, that that was a neceſſary point of Right, to be ſetled before the Tryal, and offered to debate the ſame, your Committee always anſwered, That they had not any power from your Lordſhips, either to confer upon, or to give any Anſwer concerning that Matter.</p>
+            <p>And yet your Lordſhips without having given the Commons any ſatisfactory Anſwer to the ſaid Vote, or permitting any Conference or Debate thereupon, and contrary to the ſaid Agree<g ref="char:EOLhyphen"/>ment, did on <hi>Thurſday</hi> the 22d of <hi>May</hi> ſend a Meſſage to the Commons, Declaring that the Lords Spiritual as well as Temporal, had ordered that the 27th of this Inſtant <hi>May</hi> be appointed for the Tryal of the five Lords.</p>
+            <p>So that the Commons cannot but apprehend that your Lordſhips have not only departed from what was agreed on, and in effect laid aſide that Committee, which was conſtituted for preſerving a good Underſtanding betwixt the two Houſes, and better diſpatch of the weighty Affairs now depending in Parliament, but muſt alſo needs conclude from the ſaid Meſſage, and the Votes of your Lordſhips on the 14th of <hi>May;</hi> That the Lords Spiritual have a Right to ſtay and ſit in Court, till the Court proceeds to the Vote of Guilty or not Guily. And from the Biſhops asking leave (as appears by your Lordſhips Books two Days after your ſaid Vote) that they might withdraw themſelves from the Tryal of the ſaid Lords, with Liberty of entring their uſual Proteſtation, and by their perſiſting ſtill to go on and give their Votes in Proceedings upon the Impeachment; That their deſire of leave to withdraw at the ſaid Tryal, is only an Evaſive Anſwer to the before-mentioned Vote of the Commons, and chiefly intended as an Ar<g ref="char:EOLhyphen"/>gument for a Right of Judicature in Proceedings upon Impeachment, and as a Reſerve to Judg upon the Earl of <hi>Danby</hi>'s Plea of Pardon; And upon theſe and other like Impeachments, al<g ref="char:EOLhyphen"/>though no ſuch Power was ever claimed by their Predeceſſors, but is utterly denied by the Commons: And the Commons are the rather induced to believe it ſo intended, becauſe the ve<g ref="char:EOLhyphen"/>ry asking leave to withdraw, ſeems to imply a Right to be there, and that they cannot be ab<g ref="char:EOLhyphen"/>ſent without it.</p>
+            <p>And becauſe by this way they would have it in their Power, whether or no for the future, either in the Earl of <hi>Danby</hi>'s Caſe, or any other, they will ever ask leave to be abſent; And the Temporal Lords a like Power of denying leave, if that ſhould once be admitted ne<g ref="char:EOLhyphen"/>ceſſary.</p>
+            <p>
+               <hi>The Commons therefore are obliged not to proceed to the Tryal of the Lords on the Twenty-ſeventh of this Inſtant</hi> May, <hi>but to adhere to their aforeſaid Vote: And for their ſo do<g ref="char:EOLhyphen"/>ing, beſides what hath been now and formerly by them ſaid to your Lordſhips, do offer you theſe Reaſons following.</hi>
+            </p>
+            <div type="reasons">
+               <pb n="4" facs="tcp:152942:3" rendition="simple:additions"/>
+               <head>REASONS.</head>
+               <p n="1">I. BEcauſe your Lordſhips have received the Earl of <hi>Danby</hi>'s Plea of Pardon, with a very long and unuſual proteſtation, wherein he hath aſperſed his Majeſty by falſe ſuggeſtions, as if his Majeſty had commanded or countenanced the Crimes he ſtands charged with; and par<g ref="char:EOLhyphen"/>ticularly, ſuppreſſing and diſcouraging the Diſcovery of the Plot, and endeavouring to intro<g ref="char:EOLhyphen"/>duce an Arbitrary and Tyrannical way of Government, which remains as a ſcandal upon Record againſt his Majeſty, tending to render his Perſon and Government odious to his people: againſt which it ought to be the firſt and principal care of both Houſes to vindicate his Majeſty, by doing Juſtice upon the ſaid Earl.</p>
+               <p n="2">II. The ſetting up a Pardon to be a Bar of an Impeachment, defeats the whole uſe and effect of Impeachments; and ſhould this point be admitted, or ſtand doubted, it would totally diſcou<g ref="char:EOLhyphen"/>rage the exhibiting any for the future; whereby the chief Inſtitution for the preſervation of the Government (and conſequently the Government it ſelf) would be deſtroyed. And therefore the Caſe of the ſaid Earl (which in conſequence concerns all Impeachments whatſoever) ought to be determined before that of the ſaid Five Lords, which is but their particular Caſe.</p>
+               <p>And without reſorting to many Authorities of greater Antiquity, the Commons deſire your Lordſhips to take notice (with the ſame regard they do) of the Declaration which that Excellent Prince, King <hi>Charles</hi> the Firſt of bleſſed memory, made in this behalf, in his Anſwer to the Nineteen Propoſitions of both Houſes of Parliament; wherein ſtating the ſeveral parts of this regulated Monarchy, he ſays: <hi>The King, the Houſe of Lords, and the Houſe of Commons, have each particular Priviledges:</hi> And among thoſe which belong to the King, he reckons <hi>power of Par<g ref="char:EOLhyphen"/>doning.</hi> After the enumerating of which, and other His Prerogatives, His ſaid Majeſty adds thus: <hi>Again, That the Prince may not make uſe of this High and perpetual Power, to the hurt of thoſe for whoſe good he hath it, and make uſe of the name of publick neceſſity, for the gain of his private Favourites and Followers, to the detriment of his people; The Houſe of Commons (an Excellent Con<g ref="char:EOLhyphen"/>ſerver of Liberty,</hi> &amp;c.) <hi>is ſolely intruſted with the firſt Propoſitions concerning the Levies of Moneys and the Impeaching of thoſe who, for their own ends, though countenanced by any ſurreptitiouſly-got<g ref="char:EOLhyphen"/>ten Command of the King, have violated that Law which he is bound (when he knows it) to protect, and to the protection of which they were bound to adviſe him, at leaſt not to ſerve him in the contrary. And the Lords being truſted with a Judicatory Power, are an excellent skr<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>en and bank between the Prince and People, to aſſiſt each againſt any Encroachments of the other, and by Juſt Judgments to preſerve that Law which ought to be the Rule of every one of the Three,</hi> &amp;c. <hi>Therefore the Power le<g ref="char:EOLhyphen"/>gally placed in both Houſes, is more than ſufficient to prevent and reſtrain the Power of Tyranny,</hi> &amp;c.</p>
+               <p n="3">III. Until the Commons of <hi>England</hi> have right done them againſt the Plea of Pardon, they may juſtly apprehend, that the whole Juſtice of the Kingdom, in the Caſe of the Five Lords, may be obſtructed and defeated by Pardons of like nature.</p>
+               <p n="4">IV. An Impeachment is virtually the voice of every particular ſubject of this Kingdom, cry<g ref="char:EOLhyphen"/>ing out againſt an Oppreſſion, by which every member of that Body is equally wounded; and it will prove a matter of ill conſequence, that the univerſality of the people ſhould have occaſion miniſtred and continued to them, to be apprehenſive of utmoſt danger from the Crown, from whence they of right expect protection.</p>
+               <p n="5">V. The Commons exhibited Articles of Impeachment againſt the ſaid Earl, before any againſt the Five other Lords, and demanded Judgment upon thoſe Articles: whereupon, your Lord<g ref="char:EOLhyphen"/>ſhips having appointed the Trial of the ſaid Earl to be before that of the other Five Lords. Now your Lord<g ref="char:EOLhyphen"/>ſhips having ſince inverted that Order, gives a great cauſe of doubt to the Houſe of Commons, and raiſes a jealouſie in the hearts of all the Commons of <hi>England,</hi> that, if they ſhould proceed to the Tryal of the ſaid Five Lords in the firſt place, not only Juſtice will be ob<g ref="char:EOLhyphen"/>ſtructed in the Caſe of thoſe Lords, but that they ſhall never have right done them in the matter of this Plea of Pardon, which is of ſo fatal conſequence to the whole Kingdom, and a new de<g ref="char:EOLhyphen"/>vice to fruſtrate publick Juſtice in Parliament.</p>
+               <p>Which Reaſons and Matters being duely weighed by your Lordſhips, the Commons doubt not but your Lordſhips will receive ſatisfaction concerning their Propoſitions and Proceedings; and will agree, that the Commons ought not, nor can, without deſerting their Truſt, depart from their former Vote communicated to your Lordſhips; <hi>That the Lords Spiritual ought not to have any Vote in any proceedings againſt the Lords in the</hi> Tower; <hi>and when that matter ſhall be ſetled, and the Methods of Proceedings adjuſted, the Commons ſhall then be ready to proceed upon the Tryal of the Earl of</hi> Danby, <hi>(againſt whom they have already demanded Judgment) and afterwards to the Tryal of the other five Lords in the</hi> Tower.</p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
